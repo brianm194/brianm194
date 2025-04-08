@@ -15,7 +15,7 @@ GIS & Remote Sensing Specialist | Spatial Analyst | Drone Mapping Enthusiast
 ## 🔗 Connect with me:
 - LinkedIn: [(https://www.linkedin.com/in/brian-mukaria-503084291/)]
 - Instagram: [(https://www.instagram.com/mukaria._/?hl=en)]
-- Twitter/X: [Insert your Twitter handle]
+- Twitter/X: [(https://x.com/kabrayoo_)]
 
 
 ---
@@ -27,11 +27,7 @@ GIS & Remote Sensing Specialist | Spatial Analyst | Drone Mapping Enthusiast
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-34A853?style=for-the-badge&logo=google-earth&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-FF0000?style=for-the-badge&logo=autodesk&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
----
 
 ## 🧠 Skills:
 - Spatial Analysis
