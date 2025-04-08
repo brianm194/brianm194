@@ -2,18 +2,18 @@
 GIS & Remote Sensing Specialist | Spatial Analyst | Drone Mapping Enthusiast  
 [your-github-username]
 
-👨‍💻 All of my projects are available at: [Insert your project portfolio link if ready]
+👨‍💻 All of my projects are available at: []
 
 💬 Ask me about: GIS | Remote Sensing | Google Earth Engine | Land Surveying | Drone Mapping
 
 📫 How to reach me: [mukariabrian83@gmail.com]
 
-📄 Know about my experience: [Insert your personal CV/portfolio link if ready]
+📄 Know about my experience: []
 
 ---
 
 ## 🔗 Connect with me:
-- LinkedIn: [Insert your LinkedIn]
+- LinkedIn: [(https://www.linkedin.com/in/brian-mukaria-503084291/)]
 - Instagram: [Insert your Instagram]
 - Twitter/X: [Insert your Twitter handle]
 - Medium: [Insert your Medium profile if active]
