@@ -14,9 +14,9 @@ GIS & Remote Sensing Specialist | Spatial Analyst | Drone Mapping Enthusiast
 
 ## 🔗 Connect with me:
 - LinkedIn: [(https://www.linkedin.com/in/brian-mukaria-503084291/)]
-- Instagram: [Insert your Instagram]
+- Instagram: [(https://www.instagram.com/mukaria._/?hl=en)]
 - Twitter/X: [Insert your Twitter handle]
-- Medium: [Insert your Medium profile if active]
+
 
 ---
 
