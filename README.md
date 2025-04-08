@@ -44,8 +44,8 @@ GIS & Remote Sensing Specialist | Spatial Analyst | Drone Mapping Enthusiast
 ## 🌟 Passions:
 - Using Python for geospatial data operations (analysis, integration, and processing)
 - Drone technology and drone-based geospatial surveys
-- Football enthusiast and outdoor explorer
 - Passionate about land surveying and modern RTK GPS technologies
+- Football enthusiast and outdoor explorer
 
 ---
 
